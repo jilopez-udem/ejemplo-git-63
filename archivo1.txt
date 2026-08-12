@@ -1,1 +1,4 @@
 esta es una línea agregada a un archivo nuevo
+este es un cambio remoto
+realizado en otra rama
+en otro equipo
